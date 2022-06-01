@@ -4,19 +4,19 @@
     "url": "https://threejs-journey.com",
     "icon": "https://favicons.githubusercontent.com/threejs-journey.com",
     "slug": "three-js-journey",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1255,
-    "timeDay": 2576,
-    "timeWeek": 1255,
-    "timeMonth": 1255,
-    "timeYear": 1255,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "99.26%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 1195,
+    "timeDay": 1955,
+    "timeWeek": 1195,
+    "timeMonth": 1195,
+    "timeYear": 1195,
     "dailyMinutesDown": {
-      "2022-06-01": 0
+      "2022-06-01": 11
     }
   }
 ]
