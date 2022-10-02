@@ -2,7 +2,7 @@
   {
     "name": "Three.js Journey",
     "url": "https://threejs-journey.com",
-    "icon": "https://favicons.githubusercontent.com/threejs-journey.com",
+    "icon": "https://icons.duckduckgo.com/ip3/threejs-journey.com.ico",
     "slug": "three-js-journey",
     "status": "up",
     "uptime": "99.98%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
-    "time": 989,
-    "timeDay": 1406,
-    "timeWeek": 1155,
-    "timeMonth": 1022,
-    "timeYear": 989,
+    "time": 990,
+    "timeDay": 1111,
+    "timeWeek": 1114,
+    "timeMonth": 1020,
+    "timeYear": 990,
     "dailyMinutesDown": {
       "2022-09-21": 36
     }
