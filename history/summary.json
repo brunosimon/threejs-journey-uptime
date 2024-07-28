@@ -6,17 +6,16 @@
     "slug": "three-js-journey",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1148,
-    "timeDay": 4595,
-    "timeWeek": 2317,
-    "timeMonth": 1504,
-    "timeYear": 1150,
+    "time": 1126,
+    "timeDay": 4529,
+    "timeWeek": 2332,
+    "timeMonth": 1513,
+    "timeYear": 1151,
     "dailyMinutesDown": {
-      "2024-07-27": 12,
       "2023-11-07": 91
     }
   }
