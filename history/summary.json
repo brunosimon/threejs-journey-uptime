@@ -4,7 +4,7 @@
     "url": "https://threejs-journey.com",
     "icon": "https://icons.duckduckgo.com/ip3/threejs-journey.com.ico",
     "slug": "three-js-journey",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 1079,
     "timeYear": 1157,
     "dailyMinutesDown": {
+      "2024-11-26": 0,
       "2024-10-03": 16,
       "2024-08-11": 24,
       "2024-07-30": 23
